@@ -9,3 +9,9 @@ vlc, https://github.com/cmatomic/VLCplayer-AppImage/releases/download/3.0.11.1/V
 firefox, https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-v90.0.r20210721174149/firefox-90.0.r20210721174149-x86_64.AppImage
 chromium, https://apprepo.de/appimage/download/chromium
 etcher, https://github.com/balena-io/etcher/releases/download/v1.5.121/balenaEtcher-1.5.121-x64.AppImage
+natron, https://apprepo.de/appimage/download/natron
+supertuxkart, https://cdn.lbryplayer.xyz/api/v3/streams/free/supertuxkart-x86_64/ff1aabe10fca62b2d9d09fb5798dd8bbb86fcb92/eb4624?download=true
+ColorGenerator, https://github.com/YaShock/color-generator/releases/download/0.22/ColorGenerator-x86_64.AppImage
+python3.10, https://github.com/niess/python-appimage/releases/download/python3.10/python3.10.0-cp310-cp310-manylinux2014_x86_64.AppImage
+python3.9, https://github.com/niess/python-appimage/releases/download/python3.9/python3.9.6-cp39-cp39-manylinux2014_x86_64.AppImage
+shotcut, https://github.com/mltframework/shotcut/releases/download/v21.06.29/shotcut-linux-x86_64-210629.AppImage
