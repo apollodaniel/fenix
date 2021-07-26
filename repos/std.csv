@@ -1,1 +1,19 @@
-program, version, source
+program, versionOrHash, url, type
+vscode, d5c85e15d74d3824d4f7f53476c802a1082a437b, https://bit.ly/code-fenix, Hash
+pycharm, 83b1c7a8895b68e734b54023a1ca0a0efd716a17, https://bit.ly/pycharm-fenix, Hash
+gimp, aab5fcd5ea3b252795e7c0fc5468304a8af4a636, https://apprepo.de/appimage/download/gimp, Hash
+kdenlive, 21.04, https://download.kde.org/stable/kdenlive/21.04/linux/kdenlive-21.04.3b-x86_64.appimage, Version
+inkscape, 2.1, https://media.inkscape.org/dl/resources/file/Inkscape-c4e8f9e-x86_64.AppImage, Version
+libre-office-full, 7.1, https://libreoffice.soluzioniopen.com/stable/full/LibreOffice-still.full-x86_64.AppImage, Version
+libre-office-basic, 7.1, https://libreoffice.soluzioniopen.com/stable/still/LibreOffice-still.basic-x86_64.AppImage, Version
+vlc, 3.0.11.1, https://github.com/cmatomic/VLCplayer-AppImage/releases/download/3.0.11.1/VLC_media_player-3.0.11.1-x86_64.AppImage
+firefox, 90.0.20210721174149, https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-v90.0.r20210721174149/firefox-90.0.r20210721174149-x86_64.AppImage
+chromium, 0e640d44c36763a835eeb4058eda2c13154d8421, https://apprepo.de/appimage/download/chromium, Hash
+etcher, 1.5.121, https://github.com/balena-io/etcher/releases/download/v1.5.121/balenaEtcher-1.5.121-x64.AppImage, Version
+natron, 68dca71d54d0e9fa576a7ac5bcbf481ff78bc700, https://apprepo.de/appimage/download/natron, Hash
+supertuxkart, ff1aabe10fca62b2d9d09fb5798dd8bbb86fcb92, https://cdn.lbryplayer.xyz/api/v3/streams/free/supertuxkart-x86_64/ff1aabe10fca62b2d9d09fb5798dd8bbb86fcb92/eb4624?download=true, Hash
+ColorGenerator, 0.22, https://github.com/YaShock/color-generator/releases/download/0.22/ColorGenerator-x86_64.AppImage, Version
+python3.10, 3.10, https://github.com/niess/python-appimage/releases/download/python3.10/python3.10.0-cp310-cp310-manylinux2014_x86_64.AppImage, Version
+python3.9, 3.19, https://github.com/niess/python-appimage/releases/download/python3.9/python3.9.6-cp39-cp39-manylinux2014_x86_64.AppImage, Version
+shotcut, 21.06.29, https://github.com/mltframework/shotcut/releases/download/v21.06.29/shotcut-linux-x86_64-210629.AppImage, Version
+deb2appimage, 0.0.5, https://github.com/simoniz0r/deb2appimage/releases/download/v0.0.5/deb2appimage-0.0.5-x86_64.AppImage, Version
