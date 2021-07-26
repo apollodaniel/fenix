@@ -6,8 +6,8 @@ kdenlive, 21.04, https://download.kde.org/stable/kdenlive/21.04/linux/kdenlive-2
 inkscape, 2.1, https://media.inkscape.org/dl/resources/file/Inkscape-c4e8f9e-x86_64.AppImage, Version
 libre-office-full, 7.1, https://libreoffice.soluzioniopen.com/stable/full/LibreOffice-still.full-x86_64.AppImage, Version
 libre-office-basic, 7.1, https://libreoffice.soluzioniopen.com/stable/still/LibreOffice-still.basic-x86_64.AppImage, Version
-vlc, 3.0.11.1, https://github.com/cmatomic/VLCplayer-AppImage/releases/download/3.0.11.1/VLC_media_player-3.0.11.1-x86_64.AppImage
-firefox, 90.0.20210721174149, https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-v90.0.r20210721174149/firefox-90.0.r20210721174149-x86_64.AppImage
+vlc, 3.0.11.1, https://github.com/cmatomic/VLCplayer-AppImage/releases/download/3.0.11.1/VLC_media_player-3.0.11.1-x86_64.AppImage, Version
+firefox, 90.0.20210721174149, https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-v90.0.r20210721174149/firefox-90.0.r20210721174149-x86_64.AppImage, Version
 chromium, 0e640d44c36763a835eeb4058eda2c13154d8421, https://apprepo.de/appimage/download/chromium, Hash
 etcher, 1.5.121, https://github.com/balena-io/etcher/releases/download/v1.5.121/balenaEtcher-1.5.121-x64.AppImage, Version
 natron, 68dca71d54d0e9fa576a7ac5bcbf481ff78bc700, https://apprepo.de/appimage/download/natron, Hash
