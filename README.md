@@ -10,6 +10,7 @@ List of basic commands:<br>
 --list: list repository programs<br>
 --list -i: list installed programs<br>
 --update: update repository<br>
+--help: show this message<br>
   
 that's it for now.
  
