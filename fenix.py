@@ -3,6 +3,7 @@ from os import getenv, path, makedirs
 from src.config import loadConfig
 from src.commands.update import updateCommand
 from src.commands.install import installCommand
+from src.commands.list_installed import listInstalledCommand
 from src.commands.execute import executeCommand
 from src.util import parseRepos
 homedir = getenv('HOME')
@@ -38,17 +39,23 @@ def fenix():
 @fenix.command()
 @click.argument('app')
 def install(**kwargs):
-    """Install an appImage in repos."""
+    """Install program"""
     to_install_app = kwargs.get('app')
     installCommand(repos, dirs, to_install_app)
+
+
 @fenix.command()
 @click.argument('app')
 def execute(**kwargs):
+    """run program"""
     to_install_app = kwargs.get('app')
     executeCommand(dirs, to_install_app)
+
+
 @fenix.command()
 @click.argument('app')
 def remove(**kwargs):
+    """uninstall program"""
     to_remove_app = kwargs.get('app')
 
 
@@ -56,6 +63,12 @@ def remove(**kwargs):
 def update(**kwargs):
     """update the repos."""
     updateCommand(config, dirs)
+
+
+@fenix.command('list-installed')
+def listInstalled():
+    """list all programs installed"""
+    listInstalledCommand(dirs)
 
 
 if __name__ == '__main__':
