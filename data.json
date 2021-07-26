@@ -1,0 +1,7 @@
+{
+    "repository_config":
+        {
+            "official_repository":"~/.local/share/fenix/repository.csv",
+            "custom_repository": null
+        }
+}
