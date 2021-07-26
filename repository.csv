@@ -5,3 +5,7 @@ kdenlive, https://download.kde.org/stable/kdenlive/21.04/linux/kdenlive-21.04.3b
 inkscape, https://media.inkscape.org/dl/resources/file/Inkscape-c4e8f9e-x86_64.AppImage
 libre-office-full, https://libreoffice.soluzioniopen.com/stable/full/LibreOffice-still.full-x86_64.AppImage
 libre-office-basic, https://libreoffice.soluzioniopen.com/stable/still/LibreOffice-still.basic-x86_64.AppImage
+vlc, https://github.com/cmatomic/VLCplayer-AppImage/releases/download/3.0.11.1/VLC_media_player-3.0.11.1-x86_64.AppImage
+firefox, https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-v90.0.r20210721174149/firefox-90.0.r20210721174149-x86_64.AppImage
+chromium, https://apprepo.de/appimage/download/chromium
+etcher, https://github.com/balena-io/etcher/releases/download/v1.5.121/balenaEtcher-1.5.121-x64.AppImage
