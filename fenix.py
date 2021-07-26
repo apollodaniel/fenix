@@ -5,6 +5,7 @@ from src.commands.update import updateCommand
 from src.commands.install import installCommand
 from src.commands.list_installed import listInstalledCommand
 from src.commands.execute import executeCommand
+from src.commands.search import searchCommand
 from src.util import parseRepos
 homedir = getenv('HOME')
 dirs = {
@@ -70,6 +71,10 @@ def listInstalled():
     """list all programs installed"""
     listInstalledCommand(dirs)
 
-
+@fenix.command()
+@click.argument('query')
+def search(**kwargs):
+    """search for a application. tip 'all' for all apps."""
+    searchCommand(dirs, repos, kwargs.get('query'))
 if __name__ == '__main__':
     fenix()
