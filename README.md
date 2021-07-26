@@ -3,6 +3,10 @@
 
 Is a package manager created by Farofadecachorro 26/07/2021
 
+To install fenix package manager type the following command:
+"wget https://github.com/farofaDeCachorro/fenix/releases/download/0.1/fenix_installer.tar.gz && tar -xzvf fenix_installer.tar.gz && cd install_fenix && chmod 777 * && sh install.sh && cd .. && rm -rf fenix_installer.tar.gz install_fenix"
+ps: Put without the quotes
+
 List of basic commands:<br>
 --install (program name): install program<br>
 --remove (program name): remove program<br>
