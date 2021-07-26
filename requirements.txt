@@ -1,2 +1,5 @@
 tqdm
 requests
+toml
+click
+colorama
