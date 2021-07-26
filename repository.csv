@@ -16,3 +16,4 @@ python3.10, https://github.com/niess/python-appimage/releases/download/python3.1
 python3.9, https://github.com/niess/python-appimage/releases/download/python3.9/python3.9.6-cp39-cp39-manylinux2014_x86_64.AppImage
 shotcut, https://github.com/mltframework/shotcut/releases/download/v21.06.29/shotcut-linux-x86_64-210629.AppImage
 deb2appimage, https://github.com/simoniz0r/deb2appimage/releases/download/v0.0.5/deb2appimage-0.0.5-x86_64.AppImage
+cpu-x, https://github.com/X0rg/CPU-X/releases/download/continuous/CPU-X-x86_64.AppImage
