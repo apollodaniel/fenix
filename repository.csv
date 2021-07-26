@@ -3,5 +3,4 @@ pycharm, https://bit.ly/pycharm-fenix
 gimp, https://github.com/aferrero2707/gimp-appimage/releases/download/continuous/GIMP_AppImage-git-2.10.25-20210610-withplugins-x86_64.AppImage
 kdenlive, https://download.kde.org/stable/kdenlive/21.04/linux/kdenlive-21.04.3b-x86_64.appimage
 inkscape, https://media.inkscape.org/dl/resources/file/Inkscape-c4e8f9e-x86_64.AppImage
-libre-office-full, https://libreoffice.soluzioniopen.com/stable/full/LibreOffice-still.full-x86_64.AppImage
-libre-office-basic, https://libreoffice.soluzioniopen.com/stable/still/LibreOffice-still.basic-x86_64.AppImage
+libreoffice, https://libreoffice.soluzioniopen.com/stable/full/LibreOffice-still.full-x86_64.AppImage
