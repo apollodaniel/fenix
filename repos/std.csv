@@ -14,6 +14,6 @@ natron, 68dca71d54d0e9fa576a7ac5bcbf481ff78bc700, https://apprepo.de/appimage/do
 supertuxkart, ff1aabe10fca62b2d9d09fb5798dd8bbb86fcb92, https://cdn.lbryplayer.xyz/api/v3/streams/free/supertuxkart-x86_64/ff1aabe10fca62b2d9d09fb5798dd8bbb86fcb92/eb4624?download=true, Hash
 ColorGenerator, 0.22, https://github.com/YaShock/color-generator/releases/download/0.22/ColorGenerator-x86_64.AppImage, Version
 python3.10, 3.10, https://github.com/niess/python-appimage/releases/download/python3.10/python3.10.0-cp310-cp310-manylinux2014_x86_64.AppImage, Version
-python3.9, 3.19, https://github.com/niess/python-appimage/releases/download/python3.9/python3.9.6-cp39-cp39-manylinux2014_x86_64.AppImage, Version
+python3.9, 3.9, https://github.com/niess/python-appimage/releases/download/python3.9/python3.9.6-cp39-cp39-manylinux2014_x86_64.AppImage, Version
 shotcut, 21.06.29, https://github.com/mltframework/shotcut/releases/download/v21.06.29/shotcut-linux-x86_64-210629.AppImage, Version
 deb2appimage, 0.0.5, https://github.com/simoniz0r/deb2appimage/releases/download/v0.0.5/deb2appimage-0.0.5-x86_64.AppImage, Version
