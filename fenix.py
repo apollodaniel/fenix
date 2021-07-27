@@ -24,7 +24,7 @@ if not path.exists(dirs['config-file']):
     with open(dirs['config-file'], 'w') as f:
         f.write("""
 [repos.std]
-Server = "https://raw.githubusercontent.com/farofaDeCachorro/fenix/main/repos/std.csv"
+Server = "https://raw.githubusercontent.com/yxqsnz/fenix/main/repos/std.csv"
 Type = "remote"
 # example repo
 # [repos.example]
