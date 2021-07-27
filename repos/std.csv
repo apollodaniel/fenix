@@ -17,23 +17,3 @@ python3.10, 3.10, https://github.com/niess/python-appimage/releases/download/pyt
 python3.9, 3.9, https://github.com/niess/python-appimage/releases/download/python3.9/python3.9.6-cp39-cp39-manylinux2014_x86_64.AppImage, Version
 shotcut, 21.06.29, https://github.com/mltframework/shotcut/releases/download/v21.06.29/shotcut-linux-x86_64-210629.AppImage, Version
 deb2appimage, 0.0.5, https://github.com/simoniz0r/deb2appimage/releases/download/v0.0.5/deb2appimage-0.0.5-x86_64.AppImage, Version
-cpu-x, https://github.com/X0rg/CPU-X/releases/download/continuous/CPU-X-x86_64.AppImage
-color-picker, https://github.com/Toinane/colorpicker/releases/download/2.0.3/Colorpicker_2.0.3.AppImage
-discord, https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.15-x86_64.AppImage
-endless-sky, https://github.com/endless-sky/endless-sky/releases/download/continuous/endless-sky-x86_64-continuous.AppImage
-stacer, https://github.com/oguzhaninan/Stacer/releases/download/v1.1.0/Stacer-1.1.0-x64.AppImage
-handbrake, https://apprepo.de/appimage/download/handbrake
-retroarch, https://github.com/hizzlekizzle/RetroArch-AppImage/releases/download/Linux_LTS_Nightlies/RetroArch-Linux-x86_64-Nightly.AppImage
-stellarium, https://github.com/Stellarium/stellarium/releases/download/v0.21.1/Stellarium-0.21.1-x86_64.AppImage
-thunderbird, https://github.com/srevinsaju/Thunderbird-AppImage/releases/download/stable/Thunderbird-78.12_20210712120515.AppImage
-vitomu, https://github.com/digimezzo/vitomu/releases/download/v2.0.4/Vitomu-2.0.4.AppImage
-yuna, https://github.com/BeeeQueue/yuna/releases/download/v1.4.23/Yuna-1.4.23.AppImage
-zoom, https://github.com/probonopd/Zoom.AppImage/releases/download/stable/Zoom-5.7.28852.0718.glibc2.17-x86_64.AppImage
-appimagetool, https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-aarch64.AppImage
-clippy, https://github.com/ikouchiha47/clippy/releases/download/v1.5.0/clippy-1.5.0-x86_64.AppImage
-enve, https://github.com/MaurycyLiebner/enve/releases/download/continuous-linux/enve-60eeccb-x86_64.AppImage
-freac, https://github.com/enzo1982/freac/releases/download/continuous/freac-continuous-linux-aarch64.AppImage
-tmon, https://github.com/gmagno/tmon/releases/download/v0.4.0/tmon-466ae00-x86_64.AppImage
-skype, https://apprepo.de/appimage/download/skype
-whatsapp, https://apprepo.de/appimage/download/whatsapp
-telegram, https://apprepo.de/appimage/download/telegram
