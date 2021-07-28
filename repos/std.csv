@@ -17,3 +17,23 @@ python3.10, 3.10, https://github.com/niess/python-appimage/releases/download/pyt
 python3.9, 3.9, https://github.com/niess/python-appimage/releases/download/python3.9/python3.9.6-cp39-cp39-manylinux2014_x86_64.AppImage, Version
 shotcut, 21.06.29, https://github.com/mltframework/shotcut/releases/download/v21.06.29/shotcut-linux-x86_64-210629.AppImage, Version
 deb2appimage, 0.0.5, https://github.com/simoniz0r/deb2appimage/releases/download/v0.0.5/deb2appimage-0.0.5-x86_64.AppImage, Version
+cpu-x, df33bb6e1a2112e9266529969e0a2f3a, https://github.com/X0rg/CPU-X/releases/download/continuous/CPU-X-x86_64.AppImage, Hash
+color-picker, 2.0.3, https://github.com/Toinane/colorpicker/releases/download/2.0.3/Colorpicker_2.0.3.AppImage, Version
+discord, stable-0.0.15, https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.15-x86_64.AppImage, Version
+endless-sky,209e6a62c3f359dfc0dc88ed0d86dc2b, https://github.com/endless-sky/endless-sky/releases/download/continuous/endless-sky-x86_64-continuous.AppImage, Hash
+stacer, 1.1.0, https://github.com/oguzhaninan/Stacer/releases/download/v1.1.0/Stacer-1.1.0-x64.AppImage, Version
+handbrake, 5a53192dfa129faa9b4096b6335de59d, https://apprepo.de/appimage/download/handbrake, Hash
+retroarch, b118935e3fcbfa3976d3677128cc2114, https://github.com/hizzlekizzle/RetroArch-AppImage/releases/download/Linux_LTS_Nightlies/RetroArch-Linux-x86_64-Nightly.AppImage, Hash
+stellarium, 0.21.1, https://github.com/Stellarium/stellarium/releases/download/v0.21.1/Stellarium-0.21.1-x86_64.AppImage, Version
+thunderbird, 78.12, https://github.com/srevinsaju/Thunderbird-AppImage/releases/download/stable/Thunderbird-78.12_20210712120515.AppImage, Version
+vitomu, 2.0.4, https://github.com/digimezzo/vitomu/releases/download/v2.0.4/Vitomu-2.0.4.AppImage, Version
+yuna, 1.4.23, https://github.com/BeeeQueue/yuna/releases/download/v1.4.23/Yuna-1.4.23.AppImage, Version
+zoom, 5.7.28852.0718, https://github.com/probonopd/Zoom.AppImage/releases/download/stable/Zoom-5.7.28852.0718.glibc2.17-x86_64.AppImage, Version
+appimagetool, f647226c17357554edd57481af15f80f, https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-aarch64.AppImage, Hash
+clippy, 1.5.0, https://github.com/ikouchiha47/clippy/releases/download/v1.5.0/clippy-1.5.0-x86_64.AppImage, Version
+enve, bdc7d7baf58b3cfb58b8f28d127c9594, https://github.com/MaurycyLiebner/enve/releases/download/continuous-linux/enve-60eeccb-x86_64.AppImage, Hash
+freac, 92fbc7caf396396862a7fb3c0fe86716, https://github.com/enzo1982/freac/releases/download/continuous/freac-continuous-linux-aarch64.AppImage, Hash
+tmon, 0.4.0, https://github.com/gmagno/tmon/releases/download/v0.4.0/tmon-466ae00-x86_64.AppImage, Version
+skype,66dae11c860d161ef8b338e22d7e47ae, https://apprepo.de/appimage/download/skype, Hash
+whatsapp, 290934e44dfbabd1ce1f032a294a527c, https://apprepo.de/appimage/download/whatsapp, Hash
+telegram, 0f6aae13df78f2ec8eb931b241fb4508, https://apprepo.de/appimage/download/telegram, Hash

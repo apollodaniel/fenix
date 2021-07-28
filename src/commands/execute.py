@@ -12,3 +12,4 @@ def executeCommand(dirs: dict, args: tuple):
             system(command)
             return
     echoErrorMessage(f"{args[0]} isn't not installed.")
+
