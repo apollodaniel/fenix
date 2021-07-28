@@ -18,6 +18,4 @@ List of basic commands:
 that's it for now.
  
 The repository will be public for adding new programs through commits of the community.
-
-Testing fenix and stacer(installed with fenix)
-https://www.youtube.com/watch?v=muJ41sUVh6g
+![alt text](https://github.com/farofaDeCachorro/fenix/blob/main/other/fenix.png?raw=true)
