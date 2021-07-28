@@ -25,4 +25,6 @@ def getPackage(repos: dict, name: str) -> dict:
     for _, (_, repo) in enumerate(repos.items()):
         for _, (package_name, package) in enumerate(repo.items()):
             if package_name == name:
+
                 return package
+
