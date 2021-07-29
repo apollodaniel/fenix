@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import click
 from os import getenv, path, makedirs
 from src.config import loadConfig
