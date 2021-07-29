@@ -9,7 +9,7 @@ To install fenix package manager(binary) type the following command:<br>
 
 Interpreted:<br>
 `sudo su`<br>
-`cd bin && git clone https://github.com/farofaDeCachorro/fenix.git && pip3 install requirements.txt && exit`
+`git clone https://github.com/farofaDeCachorro/fenix.git /bin && pip3 install /bin/requirements.txt && exit`
 
 List of basic commands:
 + --install (program name): install program
