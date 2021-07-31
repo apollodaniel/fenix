@@ -16,8 +16,6 @@ List of basic commands:
 + --update: update repository
 + --help: show this message
 
-![alt text](https://github.com/farofaDeCachorro/fenix/blob/main/other/fenix.png?raw=true)
-
 that's it for now.
  
 The repository will be public for adding new programs through commits of the community.
