@@ -19,3 +19,5 @@ List of basic commands:
 that's it for now.
  
 The repository will be public for adding new programs through commits of the community.
+
+![alt text](https://github.com/farofaDeCachorro/fenix/blob/main/other/fenix.png?raw=true)
